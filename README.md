@@ -1,16 +1,64 @@
-# spotcation
+# 📍 Spotcation
 
-A new Flutter project.
+**지도 위에 감성을 찍다 — Spotcation**
 
-## Getting Started
+Spotcation은 현실의 위치 기반으로 스팟(spot)을 생성하고, 그 위에 사진과 영상, 감정을 기록할 수 있는 **위치 기반 SNS 플랫폼**입니다.  
+친구들과 나만의 스팟을 공유하고, 랜드마크 미션을 통해 보상을 받는 **게임화된 커뮤니케이션 서비스**를 제공합니다.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🌟 핵심 기능
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 📌 **스팟 생성**: 현재 위치에서 자유롭게 나만의 스팟 만들기
+- 🗺️ **지도 기반 UI**: 커스터마이징 가능한 스팟 아이콘과 지도 테마
+- 🏞️ **포스트 등록**: 사진, 영상과 함께 감성 포스트 작성
+- 🏁 **랜드마크 미션**: 미션 클리어 시 보상 획득 (가상화폐)
+- 🎮 **레벨 시스템**: 랜드마크 방문 시 레벨업 & 테두리 시각화 효과
+- 👥 **친구와 공유**: 내 스팟을 친구들과 연결하고 소통
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ 사용 기술
+
+| 구분 | 기술 스택 |
+|------|-----------|
+| 앱 개발 | `Flutter`, `Dart` |
+| 백엔드 (예정) | `Node.js`, `Express.js` |
+| 데이터베이스 (예정) | `MongoDB` 또는 `Firebase` |
+| 지도 API | `Google Maps API` (MVP), `Mapbox` (정식 버전 예정) |
+| 버전 관리 | `Git`, `GitHub` |
+| 협업 툴 | Notion, Figma, Discord 등 |
+
+## 📈 개발 로드맵 (Roadmap)
+
+- [ ] MVP 기획 및 와이어프레임 완성
+- [ ] Flutter MVP 개발 시작
+- [ ] 스팟 생성 및 지도 연동 기능 구현
+- [ ] 랜드마크 미션 기능 구현
+- [ ] 백엔드(Node.js) 구조 설계 및 연동
+- [ ] Mapbox 정식 적용
+- [ ] 베타 테스트 및 개선
+- [ ] 정식 출시
+
+---
+
+## 🧑‍💻 개발자 소개
+
+> 개발자: **곽동현 (Kwak Donghyun)**  
+> 생년월일: 1998년 1월 25일  
+> 포지션: 대표 & 풀스택 개발자  
+> 좌우명: _"지도 위에 감성을 찍다."_  
+
+---
+
+## 📬 문의
+
+- 이메일: kwakdonghyun@example.com  
+- GitHub: [kwakdonghyun](https://github.com/kwakdonghyun)
+
+---
+
+## ⭐ 기타
+
+이 프로젝트는 추후 **자서전** 및 **실제 창업 스토리**로 확장될 예정입니다.  
+_"이 프로젝트를 끝내면, 나도 세상을 바꾼다."_  
