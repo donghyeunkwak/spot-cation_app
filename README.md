@@ -27,7 +27,7 @@ Spotcation은 현실의 위치 기반으로 스팟(spot)을 생성하고, 그 �
 | 데이터베이스 (예정) | `MongoDB` 또는 `Firebase` |
 | 지도 API | `Google Maps API` (MVP), `Mapbox` (정식 버전 예정) |
 | 버전 관리 | `Git`, `GitHub` |
-| 협업 툴 | Notion, Figma, Discord 등 |
+| 협업 툴 | Notion, Figma, 카톡 등 |
 
 
 ## 📈 개발 로드맵 (Roadmap)
