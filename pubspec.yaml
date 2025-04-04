@@ -1,0 +1,50 @@
+name: spotcation
+description: A new Flutter project for Spotcation - 지도 위에 감성을 찍다.
+
+publish_to: "none" # 이 프로젝트는 퍼블리시하지 않음
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.1.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # 기본 아이콘
+  cupertino_icons: ^1.0.2
+
+  # 상태관리 (Riverpod)
+  flutter_riverpod: ^2.4.0
+
+  # 라우팅 (GoRouter)
+  go_router: ^11.1.0
+
+  # API 통신
+  dio: ^5.3.2
+  http: ^1.1.0
+
+  # 위치 정보
+  geolocator: ^10.1.0
+
+  # 구글 지도
+  google_maps_flutter: ^2.5.0
+
+  # 로컬 저장소
+  shared_preferences: ^2.2.2
+
+  # SVG 지원
+  flutter_svg: ^2.0.7
+
+  # 기본 위젯용 아이콘
+  material_design_icons_flutter: ^7.0.7296
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+
+flutter:
+  uses-material-design: true
+
