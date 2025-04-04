@@ -49,16 +49,12 @@ Spotcation은 현실의 위치 기반으로 스팟(spot)을 생성하고, 그 �
 > 포지션: 대표 & 풀스택 개발자  
 > 좌우명: _"지도 위에 감성을 찍다."_  
 
----
+
 
 ## 📬 문의
 
-- 이메일: kwakdonghyun@example.com  
+- 이메일: cd1070k987@naver.com  
 - GitHub: [kwakdonghyun](https://github.com/kwakdonghyun)
 
 ---
 
-## ⭐ 기타
-
-이 프로젝트는 추후 **자서전** 및 **실제 창업 스토리**로 확장될 예정입니다.  
-_"이 프로젝트를 끝내면, 나도 세상을 바꾼다."_  
